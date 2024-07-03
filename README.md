@@ -21,7 +21,7 @@ TicketBot - это Discord-бот, предназначенный для упр�
 
 1. **Клонирование репозитория**:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Uximy/Ticket_BOT.git
     cd TicketBot
     ```
 
