@@ -1,0 +1,22 @@
+{
+ "Token": "TOKEN",
+ "roleImmunityId": [
+  "id1",
+  "id2"
+ ],
+ "Guild_id": "Guild_id",
+ "channel_ticket_id": "channel_ticket_id",
+ "id_category_ticket": "id_category_ticket",
+ "name_category_close_ticket": "Закрытые тикеты_1",
+ "channelArchivesFilesID": "ChannelCategoryID",
+ "last_id_message_create_ticket": "last_id_message_create_ticket",
+ "Community_Manager": "Community_ManagerIDRole",
+ "CEO": "CEOIDRole",
+ "Marketing_Specialist": "Marketing_SpecialistIDRole",
+ "Curator": "CuratorIDRole",
+ "HR_agent": "HR_agentIDRole",
+ "Junior_Curator": "Junior_CuratorIDRole",
+ "Moderator": "ModeratorIDRole",
+ "Support": "SupportIDRole",
+ "count_ticket": 1
+}

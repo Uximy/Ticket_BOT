@@ -1,0 +1,21 @@
+{
+  "name": "Ticket_BOT",
+  "version": "0.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Uximy",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.67",
+    "discord.js": "^14.14.1",
+    "pino": "^8.18.0",
+    "jsdom": "^24.0.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^10.3.1"
+  }
+}
